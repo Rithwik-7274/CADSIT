@@ -1,0 +1,6 @@
+names:
+  0: helmet
+  1: pagdi
+  2: no_helmet
+path: /home/grimlock/Downloads/Project/New-Datasets/IRD-250-v2
+train: ./images/train/

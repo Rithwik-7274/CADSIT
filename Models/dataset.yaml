@@ -1,0 +1,11 @@
+# dataset.yaml
+path: ./Datasets/Detection-Dataset  # The root directory for detection data
+train: images/train                 # Relative path to training images
+val: images/val                     # Relative path to validation images
+
+# Classes
+nc: 3                               # Number of classes
+names:
+  0: Helmet
+  1: Pagdi
+  2: No-Helmet
